@@ -46,5 +46,10 @@ QC情况格式为：□HDMI □LAN1 □LAN2 □NVME
 
 ## 2. 使用教程
 
+这里不提供新手入门教程，请参阅[xiayang0521的gitee](https://gitee.com/xiayang0521/berrybaseboard-test)
 
 ## 3. 已知问题
+
+### 3.1 发热问题
+
+默认固件是针对CNC盒子主动散热版的，主频较高，建议选择合适的版本。
