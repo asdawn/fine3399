@@ -1,9 +1,9 @@
 
-gitee上的官网见https://gitee.com/opengisbook/Fine3399-Official
++ gitee上的官网见https://gitee.com/opengisbook/Fine3399-Official
 
-gitee上的教程https://gitee.com/xiayang0521/berrybaseboard-test
++ gitee上的教程https://gitee.com/xiayang0521/berrybaseboard-test
 
-github由于访问较难仅作为入口使用。
++ github由于访问较难仅作为入口使用。
 
 # Fine3399资料
 
